@@ -1,1 +1,2 @@
 Melakukan Ekstrak
+Melakukan Transform

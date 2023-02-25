@@ -1,4 +1,6 @@
 flow load data
 
 -load data postgres
+  *buat database baru
+  *buat table
 -import module psycopg2

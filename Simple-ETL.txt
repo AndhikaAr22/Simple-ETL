@@ -1,2 +1,3 @@
 Melakukan Ekstrak
 Melakukan Transform
+melakukan load

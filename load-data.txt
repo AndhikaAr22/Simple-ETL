@@ -8,3 +8,7 @@ flow load data
 -import module psycopg2
 -buat module ingest
  *def ingest_data()
+  return
+-import modul yang sudah dibuat
+ *import ingest_data()
+

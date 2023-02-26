@@ -8,3 +8,4 @@ flow load data
  *def ingest_data()
      return
 -import modul yang sudah dibuat
+ *import ingest_data()

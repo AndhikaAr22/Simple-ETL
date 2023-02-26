@@ -3,9 +3,12 @@ flow load data
 -load data postgres
   *buat database baru
   *buat table
+  *buat transform data
+  *cleansing data
 -import module psycopg2
 -buat module ingest
  *def ingest_data()
-     return
+  return
 -import modul yang sudah dibuat
  *import ingest_data()
+
